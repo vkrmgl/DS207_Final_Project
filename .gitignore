@@ -1,1 +1,5 @@
 *.csv
+.DS_Store
+**/.DS_Store
+data/raw/Crime_Data_from_2020_to_Present.csv
+data/map_data/la_choropleth_3857.parquet
